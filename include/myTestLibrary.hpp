@@ -2,5 +2,6 @@
 #define MY_TEST_LIBRARY
 namespace myTestLibrary{
     int getLibraryNumber();
+    char getLibraryChar();
 }
 #endif
