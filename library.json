@@ -1,6 +1,6 @@
 {
     "name": "MyTestLibrary",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A simple test library with only one methode always returning 42!",
     "keywords": "test",
     "repository":
