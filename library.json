@@ -1,0 +1,22 @@
+{
+    "name": "MyTestLibrary",
+    "version": "1.0.0",
+    "description": "A simple test library with only one methode always returning 42!",
+    "keywords": "test",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/DominicMoser/cpp_test_library.git"
+    },
+    "authors":
+    [
+      {
+        "name": "dominic moser",
+        "email": "dominic@dmoser.de",
+        "maintainer": true
+      }
+    ],
+    "license": "GPLv3",
+    "frameworks": "*",
+    "platforms": "*"
+  }
